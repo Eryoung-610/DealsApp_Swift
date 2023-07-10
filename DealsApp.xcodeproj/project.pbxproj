@@ -1,0 +1,660 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7C2AFD2D2A53043500BA663D /* DealsAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD2C2A53043500BA663D /* DealsAppApp.swift */; };
+		7C2AFD2F2A53043500BA663D /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD2E2A53043500BA663D /* HomeView.swift */; };
+		7C2AFD312A53043600BA663D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C2AFD302A53043600BA663D /* Assets.xcassets */; };
+		7C2AFD342A53043600BA663D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C2AFD332A53043600BA663D /* Preview Assets.xcassets */; };
+		7C2AFD3E2A53043600BA663D /* DealsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD3D2A53043600BA663D /* DealsAppTests.swift */; };
+		7C2AFD482A53043600BA663D /* DealsAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD472A53043600BA663D /* DealsAppUITests.swift */; };
+		7C2AFD4A2A53043600BA663D /* DealsAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD492A53043600BA663D /* DealsAppUITestsLaunchTests.swift */; };
+		7C2AFD5E2A5304FA00BA663D /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD5C2A5304FA00BA663D /* APIError.swift */; };
+		7C2AFD602A53052000BA663D /* DealsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD5F2A53052000BA663D /* DealsService.swift */; };
+		7C2AFD622A53056700BA663D /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C2AFD612A53056700BA663D /* HomeViewModel.swift */; };
+		7C2AFD642A5305B900BA663D /* getDealsWithAugments.json in Resources */ = {isa = PBXBuildFile; fileRef = 7C2AFD632A5305B900BA663D /* getDealsWithAugments.json */; };
+		F1117ED82A5C027800280835 /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1117ED72A5C027800280835 /* CartView.swift */; };
+		F1AD11F02A568C02004355B6 /* ProductCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AD11EF2A568C02004355B6 /* ProductCard.swift */; };
+		F1DFD18E2A53C9A500F5BE9C /* DealModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DFD18D2A53C9A500F5BE9C /* DealModel.swift */; };
+		F1DFD1912A53D9A600F5BE9C /* ProductPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DFD1902A53D9A600F5BE9C /* ProductPage.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		7C2AFD3A2A53043600BA663D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7C2AFD212A53043500BA663D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7C2AFD282A53043500BA663D;
+			remoteInfo = DealsApp;
+		};
+		7C2AFD442A53043600BA663D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7C2AFD212A53043500BA663D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7C2AFD282A53043500BA663D;
+			remoteInfo = DealsApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7C2AFD292A53043500BA663D /* DealsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DealsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C2AFD2C2A53043500BA663D /* DealsAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsAppApp.swift; sourceTree = "<group>"; };
+		7C2AFD2E2A53043500BA663D /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		7C2AFD302A53043600BA663D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7C2AFD332A53043600BA663D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7C2AFD392A53043600BA663D /* DealsAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DealsAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C2AFD3D2A53043600BA663D /* DealsAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsAppTests.swift; sourceTree = "<group>"; };
+		7C2AFD432A53043600BA663D /* DealsAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DealsAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C2AFD472A53043600BA663D /* DealsAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsAppUITests.swift; sourceTree = "<group>"; };
+		7C2AFD492A53043600BA663D /* DealsAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7C2AFD5C2A5304FA00BA663D /* APIError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
+		7C2AFD5F2A53052000BA663D /* DealsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealsService.swift; sourceTree = "<group>"; };
+		7C2AFD612A53056700BA663D /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
+		7C2AFD632A5305B900BA663D /* getDealsWithAugments.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = getDealsWithAugments.json; sourceTree = "<group>"; };
+		F1117ED72A5C027800280835 /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
+		F1AD11EF2A568C02004355B6 /* ProductCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCard.swift; sourceTree = "<group>"; };
+		F1DFD18D2A53C9A500F5BE9C /* DealModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DealModel.swift; sourceTree = "<group>"; };
+		F1DFD1902A53D9A600F5BE9C /* ProductPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductPage.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7C2AFD262A53043500BA663D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C2AFD362A53043600BA663D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C2AFD402A53043600BA663D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7C2AFD202A53043500BA663D = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD2B2A53043500BA663D /* DealsApp */,
+				7C2AFD3C2A53043600BA663D /* DealsAppTests */,
+				7C2AFD462A53043600BA663D /* DealsAppUITests */,
+				7C2AFD2A2A53043500BA663D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7C2AFD2A2A53043500BA663D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD292A53043500BA663D /* DealsApp.app */,
+				7C2AFD392A53043600BA663D /* DealsAppTests.xctest */,
+				7C2AFD432A53043600BA663D /* DealsAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7C2AFD2B2A53043500BA663D /* DealsApp */ = {
+			isa = PBXGroup;
+			children = (
+				F1DFD18C2A53C99800F5BE9C /* Models */,
+				7C2AFD5A2A5304DB00BA663D /* Shared */,
+				7C2AFD582A53047600BA663D /* Screens */,
+				7C2AFD2C2A53043500BA663D /* DealsAppApp.swift */,
+				7C2AFD302A53043600BA663D /* Assets.xcassets */,
+				7C2AFD632A5305B900BA663D /* getDealsWithAugments.json */,
+				7C2AFD322A53043600BA663D /* Preview Content */,
+			);
+			path = DealsApp;
+			sourceTree = "<group>";
+		};
+		7C2AFD322A53043600BA663D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD332A53043600BA663D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7C2AFD3C2A53043600BA663D /* DealsAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD3D2A53043600BA663D /* DealsAppTests.swift */,
+			);
+			path = DealsAppTests;
+			sourceTree = "<group>";
+		};
+		7C2AFD462A53043600BA663D /* DealsAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD472A53043600BA663D /* DealsAppUITests.swift */,
+				7C2AFD492A53043600BA663D /* DealsAppUITestsLaunchTests.swift */,
+			);
+			path = DealsAppUITests;
+			sourceTree = "<group>";
+		};
+		7C2AFD582A53047600BA663D /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				F1DFD18F2A53D8F300F5BE9C /* Views */,
+				7C2AFD592A53048300BA663D /* DealsHomePage */,
+				7C2AFD5F2A53052000BA663D /* DealsService.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		7C2AFD592A53048300BA663D /* DealsHomePage */ = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD2E2A53043500BA663D /* HomeView.swift */,
+				7C2AFD612A53056700BA663D /* HomeViewModel.swift */,
+			);
+			path = DealsHomePage;
+			sourceTree = "<group>";
+		};
+		7C2AFD5A2A5304DB00BA663D /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				7C2AFD5C2A5304FA00BA663D /* APIError.swift */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		F1DFD18C2A53C99800F5BE9C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				F1DFD18D2A53C9A500F5BE9C /* DealModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F1DFD18F2A53D8F300F5BE9C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F1DFD1902A53D9A600F5BE9C /* ProductPage.swift */,
+				F1AD11EF2A568C02004355B6 /* ProductCard.swift */,
+				F1117ED72A5C027800280835 /* CartView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7C2AFD282A53043500BA663D /* DealsApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7C2AFD4D2A53043600BA663D /* Build configuration list for PBXNativeTarget "DealsApp" */;
+			buildPhases = (
+				7C2AFD252A53043500BA663D /* Sources */,
+				7C2AFD262A53043500BA663D /* Frameworks */,
+				7C2AFD272A53043500BA663D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DealsApp;
+			productName = DealsApp;
+			productReference = 7C2AFD292A53043500BA663D /* DealsApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7C2AFD382A53043600BA663D /* DealsAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7C2AFD502A53043600BA663D /* Build configuration list for PBXNativeTarget "DealsAppTests" */;
+			buildPhases = (
+				7C2AFD352A53043600BA663D /* Sources */,
+				7C2AFD362A53043600BA663D /* Frameworks */,
+				7C2AFD372A53043600BA663D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7C2AFD3B2A53043600BA663D /* PBXTargetDependency */,
+			);
+			name = DealsAppTests;
+			productName = DealsAppTests;
+			productReference = 7C2AFD392A53043600BA663D /* DealsAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7C2AFD422A53043600BA663D /* DealsAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7C2AFD532A53043600BA663D /* Build configuration list for PBXNativeTarget "DealsAppUITests" */;
+			buildPhases = (
+				7C2AFD3F2A53043600BA663D /* Sources */,
+				7C2AFD402A53043600BA663D /* Frameworks */,
+				7C2AFD412A53043600BA663D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7C2AFD452A53043600BA663D /* PBXTargetDependency */,
+			);
+			name = DealsAppUITests;
+			productName = DealsAppUITests;
+			productReference = 7C2AFD432A53043600BA663D /* DealsAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7C2AFD212A53043500BA663D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					7C2AFD282A53043500BA663D = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					7C2AFD382A53043600BA663D = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 7C2AFD282A53043500BA663D;
+					};
+					7C2AFD422A53043600BA663D = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 7C2AFD282A53043500BA663D;
+					};
+				};
+			};
+			buildConfigurationList = 7C2AFD242A53043500BA663D /* Build configuration list for PBXProject "DealsApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7C2AFD202A53043500BA663D;
+			productRefGroup = 7C2AFD2A2A53043500BA663D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7C2AFD282A53043500BA663D /* DealsApp */,
+				7C2AFD382A53043600BA663D /* DealsAppTests */,
+				7C2AFD422A53043600BA663D /* DealsAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7C2AFD272A53043500BA663D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C2AFD342A53043600BA663D /* Preview Assets.xcassets in Resources */,
+				7C2AFD312A53043600BA663D /* Assets.xcassets in Resources */,
+				7C2AFD642A5305B900BA663D /* getDealsWithAugments.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C2AFD372A53043600BA663D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C2AFD412A53043600BA663D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7C2AFD252A53043500BA663D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1117ED82A5C027800280835 /* CartView.swift in Sources */,
+				7C2AFD602A53052000BA663D /* DealsService.swift in Sources */,
+				7C2AFD622A53056700BA663D /* HomeViewModel.swift in Sources */,
+				F1DFD1912A53D9A600F5BE9C /* ProductPage.swift in Sources */,
+				7C2AFD2F2A53043500BA663D /* HomeView.swift in Sources */,
+				F1DFD18E2A53C9A500F5BE9C /* DealModel.swift in Sources */,
+				7C2AFD2D2A53043500BA663D /* DealsAppApp.swift in Sources */,
+				7C2AFD5E2A5304FA00BA663D /* APIError.swift in Sources */,
+				F1AD11F02A568C02004355B6 /* ProductCard.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C2AFD352A53043600BA663D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C2AFD3E2A53043600BA663D /* DealsAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7C2AFD3F2A53043600BA663D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C2AFD4A2A53043600BA663D /* DealsAppUITestsLaunchTests.swift in Sources */,
+				7C2AFD482A53043600BA663D /* DealsAppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7C2AFD3B2A53043600BA663D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7C2AFD282A53043500BA663D /* DealsApp */;
+			targetProxy = 7C2AFD3A2A53043600BA663D /* PBXContainerItemProxy */;
+		};
+		7C2AFD452A53043600BA663D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7C2AFD282A53043500BA663D /* DealsApp */;
+			targetProxy = 7C2AFD442A53043600BA663D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		7C2AFD4B2A53043600BA663D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7C2AFD4C2A53043600BA663D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7C2AFD4E2A53043600BA663D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"DealsApp/Preview Content\"";
+				DEVELOPMENT_TEAM = L88M38NBF2;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cocoateam.DealsApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7C2AFD4F2A53043600BA663D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"DealsApp/Preview Content\"";
+				DEVELOPMENT_TEAM = L88M38NBF2;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cocoateam.DealsApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7C2AFD512A53043600BA663D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L88M38NBF2;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cocoateam.DealsAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DealsApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DealsApp";
+			};
+			name = Debug;
+		};
+		7C2AFD522A53043600BA663D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L88M38NBF2;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cocoateam.DealsAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DealsApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/DealsApp";
+			};
+			name = Release;
+		};
+		7C2AFD542A53043600BA663D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L88M38NBF2;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cocoateam.DealsAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = DealsApp;
+			};
+			name = Debug;
+		};
+		7C2AFD552A53043600BA663D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = L88M38NBF2;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cocoateam.DealsAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = DealsApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7C2AFD242A53043500BA663D /* Build configuration list for PBXProject "DealsApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C2AFD4B2A53043600BA663D /* Debug */,
+				7C2AFD4C2A53043600BA663D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7C2AFD4D2A53043600BA663D /* Build configuration list for PBXNativeTarget "DealsApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C2AFD4E2A53043600BA663D /* Debug */,
+				7C2AFD4F2A53043600BA663D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7C2AFD502A53043600BA663D /* Build configuration list for PBXNativeTarget "DealsAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C2AFD512A53043600BA663D /* Debug */,
+				7C2AFD522A53043600BA663D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7C2AFD532A53043600BA663D /* Build configuration list for PBXNativeTarget "DealsAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7C2AFD542A53043600BA663D /* Debug */,
+				7C2AFD552A53043600BA663D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7C2AFD212A53043500BA663D /* Project object */;
+}

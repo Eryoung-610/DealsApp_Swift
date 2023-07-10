@@ -1,0 +1,1634 @@
+{
+    "data": {
+        "deals": [
+            {
+                "id": "1",
+                "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                "price": 1999,
+                "description": "What a fantastic price on a must-have product - you should totally buy this right now!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/9025577/9025577_o01.jpg",
+                    "description": "Enjoy endless fun when you bring along the My Arcade All-Star Stadium Pico Player. This game console features an ergonomic design and a full-color 2\" screen with a built-in speaker. It includes 7 officially licensed Jaleco titles and 100 retro-style bonus games for versatile fun.  Handheld console with an ergonomic and compact design.  Offers 7 officially licensed Jaleco titles including BASES LOADED 1, 2, 3, and 4, GOAL!, RACKET ATTACK and HOOPS.  Bonus 100 retro-style games for added fun.  Full-color 2\" screen.  Built-in speaker with volume control.  Portable console is ideal for long road trips, commuting to work, travel and more.  Powered by 3 AAA batteries (not included).  Includes a user guide.",
+                    "sku": "9025577",
+                    "updatedAt": "2023-06-17 19:44:22"
+                },
+                "createdAt": "1688149416821",
+                "updatedAt": "1688149416821",
+                "likes": [
+                    {
+                        "id": "1",
+                        "user": {
+                            "id": "1",
+                            "name": "John Doe",
+                            "likes": [
+                                {
+                                    "id": "1",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "4",
+                                    "deal": {
+                                        "id": "3",
+                                        "title": "Lenovo - Legion Pro 5 16IRX8 16\" 165 Hz Gaming Laptop 2560 x 1600 (WQXGA) - Intel 13th Gen Core i7 i7-13700HX with 16GB Memory - Onyx Gray",
+                                        "url": "https://api.bestbuy.com/click/-/6548172/pdp",
+                                        "price": 171999,
+                                        "createdAt": "1688149416826",
+                                        "updatedAt": "1688149416826"
+                                    }
+                                },
+                                {
+                                    "id": "9",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                },
+                                {
+                                    "id": "14",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "user": {
+                            "id": "2",
+                            "name": "Jane Smith",
+                            "likes": [
+                                {
+                                    "id": "2",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "5",
+                                    "deal": {
+                                        "id": "4",
+                                        "title": "Dell - OptiPlex 7000 Desktop - Intel Core i5-13500 - 8GB Memory - 256GB SSD - Black",
+                                        "url": "https://api.bestbuy.com/click/-/6544288/pdp",
+                                        "price": 72999,
+                                        "createdAt": "1688149416828",
+                                        "updatedAt": "1688149416828"
+                                    }
+                                },
+                                {
+                                    "id": "10",
+                                    "deal": {
+                                        "id": "8",
+                                        "title": "Household Essentials Krush Container Red/Black Poly Cotton Utility Tote, Large (2220-1)",
+                                        "url": "https://www.staples.com/household-essentials-krush-container-red-black-poly-cotton-utility-tote-large-2220-1/product_24569558?cid=AFF:24569558",
+                                        "price": 2099,
+                                        "createdAt": "1688149416838",
+                                        "updatedAt": "1688149416838"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "7",
+                        "user": {
+                            "id": "4",
+                            "name": "Emily Wilson",
+                            "likes": [
+                                {
+                                    "id": "7",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "12",
+                                    "deal": {
+                                        "id": "10",
+                                        "title": "BAZIC Products® Basic Backpack 16\" Fuchsia, Pack of 2 (BAZ1036-2)",
+                                        "url": "https://www.staples.com/product_24568897?cid=AFF:24568897",
+                                        "price": 3559,
+                                        "createdAt": "1688149416842",
+                                        "updatedAt": "1688149416842"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": [
+                    {
+                        "id": "1",
+                        "createdAt": "1688149416928",
+                        "text": "This deal is fantastic! I used it and saved a lot of money. Thanks for sharing!",
+                        "user": {
+                            "id": "1",
+                            "name": "John Doe"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "createdAt": "1688149416930",
+                        "text": "I got this deal and it was totally worth it. I could not find a better deal anywhere else. Probably the best deal I have ever seen!",
+                        "user": {
+                            "id": "2",
+                            "name": "Jane Smith"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "title": "LumiSource Dormi Contemporary Fabric Recliner Chair, Gray",
+                "url": "https://www.officedepot.com/a/products/8001030/LumiSource-Dormi-Contemporary-Fabric-Recliner-Chair/",
+                "price": 48999,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/8001030/8001030_o01.jpg",
+                    "description": "Add a comfortable recliner chair to your family room or living room with the LumiSource Dormi Contemporary Fabric Recliner Chair. This upholstered recliner has foam padding for a cushioned feel and manual reclining for customized comfort. The arched arms provide added support.  Overall Dimensions: 40-1/2\"H x 24-1/2\"W x 34-1/2\"D.  Contemporary recliner is upholstered in fabric for softness.  Foam padding adds comfort.  Tufted seat and backrest add style.  Manual recline allows for adjustments.  Arched arms provide support.  Assembly required.  Backed by the manufacturer�s 1-year limited warranty.",
+                    "sku": "8001030",
+                    "updatedAt": "2023-06-16 21:02:30"
+                },
+                "createdAt": "1688149416824",
+                "updatedAt": "1688149416824",
+                "likes": [
+                    {
+                        "id": "3",
+                        "user": {
+                            "id": "3",
+                            "name": "Alex Johnson",
+                            "likes": [
+                                {
+                                    "id": "3",
+                                    "deal": {
+                                        "id": "2",
+                                        "title": "LumiSource Dormi Contemporary Fabric Recliner Chair, Gray",
+                                        "url": "https://www.officedepot.com/a/products/8001030/LumiSource-Dormi-Contemporary-Fabric-Recliner-Chair/",
+                                        "price": 48999,
+                                        "createdAt": "1688149416824",
+                                        "updatedAt": "1688149416824"
+                                    }
+                                },
+                                {
+                                    "id": "6",
+                                    "deal": {
+                                        "id": "5",
+                                        "title": "GE Reveal HD+ 8-Watt White LED General-Purpose Bulb, 2/Pack (93129441)",
+                                        "url": "https://www.staples.com/ge-reveal-hd-8-watt-white-led-general-purpose-bulb-2-pack-93129441/product_24569007?cid=AFF:24569007",
+                                        "price": 1399,
+                                        "createdAt": "1688149416830",
+                                        "updatedAt": "1688149416830"
+                                    }
+                                },
+                                {
+                                    "id": "11",
+                                    "deal": {
+                                        "id": "9",
+                                        "title": "Kanguru UltraLock 5TB External USB 3.0 Portable Hard Drive, Black (U3-2HDWP-5T)",
+                                        "url": "https://www.staples.com/product_IM18TN732?cid=AFF:IM18TN732",
+                                        "price": 31249,
+                                        "createdAt": "1688149416840",
+                                        "updatedAt": "1688149416840"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "8",
+                        "user": {
+                            "id": "5",
+                            "name": "Michael Brown",
+                            "likes": [
+                                {
+                                    "id": "8",
+                                    "deal": {
+                                        "id": "2",
+                                        "title": "LumiSource Dormi Contemporary Fabric Recliner Chair, Gray",
+                                        "url": "https://www.officedepot.com/a/products/8001030/LumiSource-Dormi-Contemporary-Fabric-Recliner-Chair/",
+                                        "price": 48999,
+                                        "createdAt": "1688149416824",
+                                        "updatedAt": "1688149416824"
+                                    }
+                                },
+                                {
+                                    "id": "13",
+                                    "deal": {
+                                        "id": "6",
+                                        "title": "Post-it� 100% Recycled Paper Super Sticky Notes, 3 in x 3 in, Wanderlust Pastels Collection, 24 Pads/Pack, 70 Sheets/Pad",
+                                        "url": "https://www.officedepot.com/a/products/8648150/Post-it-100percent-Recycled-Paper-Super/",
+                                        "price": 4929,
+                                        "createdAt": "1688149416833",
+                                        "updatedAt": "1688149416833"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [
+                    {
+                        "id": "1",
+                        "user": {
+                            "name": "John Doe"
+                        }
+                    }
+                ],
+                "comments": [
+                    {
+                        "id": "3",
+                        "createdAt": "1688149416932",
+                        "text": "The quality of the product is excellent! You are going to love it. Plus, the price is great. I bought it and I am very happy with it.",
+                        "user": {
+                            "id": "3",
+                            "name": "Alex Johnson"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "title": "Lenovo - Legion Pro 5 16IRX8 16\" 165 Hz Gaming Laptop 2560 x 1600 (WQXGA) - Intel 13th Gen Core i7 i7-13700HX with 16GB Memory - Onyx Gray",
+                "url": "https://api.bestbuy.com/click/-/6548172/pdp",
+                "price": 171999,
+                "description": "This is a great product!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6548/6548172_sd.jpg",
+                    "description": "Own the room and the leaderboard with Legion 5 series gaming laptops. Designed with a plethora of high-performance options, while keeping a low profile with clean, minimalist looks that complement your lifestyle.",
+                    "sku": "6548172",
+                    "updatedAt": "2023-06-20 18:02:44"
+                },
+                "createdAt": "1688149416826",
+                "updatedAt": "1688149416826",
+                "likes": [
+                    {
+                        "id": "4",
+                        "user": {
+                            "id": "1",
+                            "name": "John Doe",
+                            "likes": [
+                                {
+                                    "id": "1",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "4",
+                                    "deal": {
+                                        "id": "3",
+                                        "title": "Lenovo - Legion Pro 5 16IRX8 16\" 165 Hz Gaming Laptop 2560 x 1600 (WQXGA) - Intel 13th Gen Core i7 i7-13700HX with 16GB Memory - Onyx Gray",
+                                        "url": "https://api.bestbuy.com/click/-/6548172/pdp",
+                                        "price": 171999,
+                                        "createdAt": "1688149416826",
+                                        "updatedAt": "1688149416826"
+                                    }
+                                },
+                                {
+                                    "id": "9",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                },
+                                {
+                                    "id": "14",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [
+                    {
+                        "id": "2",
+                        "user": {
+                            "name": "Jane Smith"
+                        }
+                    }
+                ],
+                "comments": [
+                    {
+                        "id": "4",
+                        "createdAt": "1688149416935",
+                        "text": "I have been waiting for this deal. Thanks for sharing! Don't miss out on this deal.",
+                        "user": {
+                            "id": "4",
+                            "name": "Emily Wilson"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "title": "Dell - OptiPlex 7000 Desktop - Intel Core i5-13500 - 8GB Memory - 256GB SSD - Black",
+                "url": "https://api.bestbuy.com/click/-/6544288/pdp",
+                "price": 72999,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6544/6544288_sd.jpg",
+                    "description": "The Dell OptiPlex 7000 Series are intelligent desktops built for ultimate expandability and performance. From the Intel Core vPro processors and Intel GPUs to deliver business-class performance to accelerate productivity while minimizing security risks and M.2 SSD for fast boot times and file accesses to Dell Optimizer for more intuitive connectivity and audio experiences and a ventilated front bezel that allows high air intake to keep your system cool and protected, the OptiPlex 7000 Series revolutionizes the way you work.",
+                    "sku": "6544288",
+                    "updatedAt": "2023-06-23 06:02:22"
+                },
+                "createdAt": "1688149416828",
+                "updatedAt": "1688149416828",
+                "likes": [
+                    {
+                        "id": "5",
+                        "user": {
+                            "id": "2",
+                            "name": "Jane Smith",
+                            "likes": [
+                                {
+                                    "id": "2",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "5",
+                                    "deal": {
+                                        "id": "4",
+                                        "title": "Dell - OptiPlex 7000 Desktop - Intel Core i5-13500 - 8GB Memory - 256GB SSD - Black",
+                                        "url": "https://api.bestbuy.com/click/-/6544288/pdp",
+                                        "price": 72999,
+                                        "createdAt": "1688149416828",
+                                        "updatedAt": "1688149416828"
+                                    }
+                                },
+                                {
+                                    "id": "10",
+                                    "deal": {
+                                        "id": "8",
+                                        "title": "Household Essentials Krush Container Red/Black Poly Cotton Utility Tote, Large (2220-1)",
+                                        "url": "https://www.staples.com/household-essentials-krush-container-red-black-poly-cotton-utility-tote-large-2220-1/product_24569558?cid=AFF:24569558",
+                                        "price": 2099,
+                                        "createdAt": "1688149416838",
+                                        "updatedAt": "1688149416838"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [
+                    {
+                        "id": "3",
+                        "user": {
+                            "name": "Alex Johnson"
+                        }
+                    }
+                ],
+                "comments": [
+                    {
+                        "id": "5",
+                        "createdAt": "1688149416937",
+                        "text": "👎Not a good deal. The price is still high. I would not recommend it. Go for something else --You will find a better deal elsewhere.",
+                        "user": {
+                            "id": "5",
+                            "name": "Michael Brown"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "5",
+                "title": "GE Reveal HD+ 8-Watt White LED General-Purpose Bulb, 2/Pack (93129441)",
+                "url": "https://www.staples.com/ge-reveal-hd-8-watt-white-led-general-purpose-bulb-2-pack-93129441/product_24569007?cid=AFF:24569007",
+                "price": 1399,
+                "description": "This is a great deal! I wish I had bought more!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/5DBF3EBF-C2C2-42B3-91F92C05596215C0_sc7?wid=512&hei=512",
+                    "description": "The Reveal HD+ LED 60W replacement A19 light bulb provides pure, clean light. The advanced technology enhances colors plus whitens white for exceptional clarity. Replace ordinary bulbs with a Reveal HD+ light bulb to see vivid colors and vibrant whites in high definition. The bulb is dimmable and illuminates your home with clean, beautiful light. Great for frequently used fixtures: the Reveal HD+ is rated to last 13 years and saves 85 dollars on energy costs over the bulb's life versus a 60W Reveal incandescent bulb. Unlike CFL bulbs, Reveal HD+ offers exceptional color, instant full brightness, and is free of mercury. Replace CFL and incandescent light bulbs with the Reveal HD+ general-purpose LED light bulb in indoor table lamps, sconces, and open fixtures, including damp locations. Use Reveal HD+ where clarity matters, especially kitchens, bathrooms, and craft and hobby spaces. Bulb dimensions: 4. 84\"H x 2. 95\"Dia. A19 bulb with E26 (medium) base. Provides balanced vivid white (2850K) light at 610 lumens. With a color rendering index (CRI) of 90, this LED bulb provides excellent color accuracy. Replaces a 60W incandescent light bulb and uses only 8W. Meets or exceeds the UL standard. Improved energy-saving LED bulb that enhances the appearance of colors. Rated to last up to 15000 hours. 5-year manufacturer limited warranty. Two bulbs per pack. Features a frosted lens cover and dimming capability",
+                    "sku": "24569007",
+                    "updatedAt": "2023-06-25 20:06:44"
+                },
+                "createdAt": "1688149416830",
+                "updatedAt": "1688149416830",
+                "likes": [
+                    {
+                        "id": "6",
+                        "user": {
+                            "id": "3",
+                            "name": "Alex Johnson",
+                            "likes": [
+                                {
+                                    "id": "3",
+                                    "deal": {
+                                        "id": "2",
+                                        "title": "LumiSource Dormi Contemporary Fabric Recliner Chair, Gray",
+                                        "url": "https://www.officedepot.com/a/products/8001030/LumiSource-Dormi-Contemporary-Fabric-Recliner-Chair/",
+                                        "price": 48999,
+                                        "createdAt": "1688149416824",
+                                        "updatedAt": "1688149416824"
+                                    }
+                                },
+                                {
+                                    "id": "6",
+                                    "deal": {
+                                        "id": "5",
+                                        "title": "GE Reveal HD+ 8-Watt White LED General-Purpose Bulb, 2/Pack (93129441)",
+                                        "url": "https://www.staples.com/ge-reveal-hd-8-watt-white-led-general-purpose-bulb-2-pack-93129441/product_24569007?cid=AFF:24569007",
+                                        "price": 1399,
+                                        "createdAt": "1688149416830",
+                                        "updatedAt": "1688149416830"
+                                    }
+                                },
+                                {
+                                    "id": "11",
+                                    "deal": {
+                                        "id": "9",
+                                        "title": "Kanguru UltraLock 5TB External USB 3.0 Portable Hard Drive, Black (U3-2HDWP-5T)",
+                                        "url": "https://www.staples.com/product_IM18TN732?cid=AFF:IM18TN732",
+                                        "price": 31249,
+                                        "createdAt": "1688149416840",
+                                        "updatedAt": "1688149416840"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": [
+                    {
+                        "id": "6",
+                        "createdAt": "1688149416939",
+                        "text": "I highly recommend this deal! 😀",
+                        "user": {
+                            "id": "1",
+                            "name": "John Doe"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": "6",
+                "title": "Post-it� 100% Recycled Paper Super Sticky Notes, 3 in x 3 in, Wanderlust Pastels Collection, 24 Pads/Pack, 70 Sheets/Pad",
+                "url": "https://www.officedepot.com/a/products/8648150/Post-it-100percent-Recycled-Paper-Super/",
+                "price": 4929,
+                "description": "This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/8648150/8648150_o01_052423.jpg",
+                    "description": "Post-it� 100% Recycled Paper Super Sticky Notes are made from 100% recycled paper and feature 2X the sticking power to make sure your message stays put. The water-based adhesive reliably sticks to doors, windows and walls, so you can take your notes anywhere. Post-it� 100% Recycled Paper Super Sticky Notes and packaging are curbside recyclable. Succeed in your everyday tasks and feel good knowing these notes are made in a zero-waste-to-landfill plant. Packaging is also made from 100% recycled paper. Explore dreamy vibes in the soothing Wanderlust Pastels collection.  3 in x 3 in, Wanderlust Pastels Collection  Post-it� 100% Recycled Paper Super Sticky Notes have 2X the sticking power  Post-it� 100% Recycled Paper Super Sticky Notes stick and re-stick, so your ideas go with you  Use for reminders on doors, windows and walls  Post-it� 100% Recycled Paper Super Sticky Notes and packaging are made with 100% recycled paper  Post-it� 100% Recycled Paper Super Sticky Notes and packaging are curbside recyclable  Post-it� 100% Recycled Paper Super Sticky Notes contain a minimum of 30% post-consumer recycled content  Download the free Post-it� App. Whether you�re working or learning remotely, the Post-it� App is the perfect way to capture and share ideas, keep track of assignments, or create colorful calendars with your friends. Share across multiple platforms including Dropbox, Trello�, PowerPoint�, or synced across your devices  24 Pads/Pack, 70 Sheets/Pad  Contains Recycled Content - See Specs for Details",
+                    "sku": "8648150",
+                    "updatedAt": "2023-06-16 21:08:48"
+                },
+                "createdAt": "1688149416833",
+                "updatedAt": "1688149416833",
+                "likes": [
+                    {
+                        "id": "13",
+                        "user": {
+                            "id": "5",
+                            "name": "Michael Brown",
+                            "likes": [
+                                {
+                                    "id": "8",
+                                    "deal": {
+                                        "id": "2",
+                                        "title": "LumiSource Dormi Contemporary Fabric Recliner Chair, Gray",
+                                        "url": "https://www.officedepot.com/a/products/8001030/LumiSource-Dormi-Contemporary-Fabric-Recliner-Chair/",
+                                        "price": 48999,
+                                        "createdAt": "1688149416824",
+                                        "updatedAt": "1688149416824"
+                                    }
+                                },
+                                {
+                                    "id": "13",
+                                    "deal": {
+                                        "id": "6",
+                                        "title": "Post-it� 100% Recycled Paper Super Sticky Notes, 3 in x 3 in, Wanderlust Pastels Collection, 24 Pads/Pack, 70 Sheets/Pad",
+                                        "url": "https://www.officedepot.com/a/products/8648150/Post-it-100percent-Recycled-Paper-Super/",
+                                        "price": 4929,
+                                        "createdAt": "1688149416833",
+                                        "updatedAt": "1688149416833"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "7",
+                "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                "price": 2999,
+                "description": "The best deal on this site!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp209830727_sc7?wid=512&hei=512",
+                    "description": "Sold as 2 complete set, each individual set includes: 119 total pieces. Largest card measures 18\" x 3. 25\", Title Cards: First 100 Sight Words & Word Wall, Header Cards: Words We Know, Words of the Week, Word of the Day, and We Can Read!, 2 \"List of Sight Words\" cards, 100 sight words cards, and 3 blank header cards & 8 blank small cards. Sold as 2 packs. Includes a list of sight words. First 100 sight words. Grade 1+. Contains 119 Cards Per Pack, 2 Packs. Measures 18\" x 3-1/4\" largest card. WARNING: California Proposition 65 Warning. This product can expose you to chemicals including lead, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www. P65Warnings. ca. gov . These contain a write-on/wipe-off surface. Are great for classroom organizers.",
+                    "sku": "24568936",
+                    "updatedAt": "2023-06-24 20:23:00"
+                },
+                "createdAt": "1688149416835",
+                "updatedAt": "1688149416835",
+                "likes": [
+                    {
+                        "id": "9",
+                        "user": {
+                            "id": "1",
+                            "name": "John Doe",
+                            "likes": [
+                                {
+                                    "id": "1",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "4",
+                                    "deal": {
+                                        "id": "3",
+                                        "title": "Lenovo - Legion Pro 5 16IRX8 16\" 165 Hz Gaming Laptop 2560 x 1600 (WQXGA) - Intel 13th Gen Core i7 i7-13700HX with 16GB Memory - Onyx Gray",
+                                        "url": "https://api.bestbuy.com/click/-/6548172/pdp",
+                                        "price": 171999,
+                                        "createdAt": "1688149416826",
+                                        "updatedAt": "1688149416826"
+                                    }
+                                },
+                                {
+                                    "id": "9",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                },
+                                {
+                                    "id": "14",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": "14",
+                        "user": {
+                            "id": "1",
+                            "name": "John Doe",
+                            "likes": [
+                                {
+                                    "id": "1",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "4",
+                                    "deal": {
+                                        "id": "3",
+                                        "title": "Lenovo - Legion Pro 5 16IRX8 16\" 165 Hz Gaming Laptop 2560 x 1600 (WQXGA) - Intel 13th Gen Core i7 i7-13700HX with 16GB Memory - Onyx Gray",
+                                        "url": "https://api.bestbuy.com/click/-/6548172/pdp",
+                                        "price": 171999,
+                                        "createdAt": "1688149416826",
+                                        "updatedAt": "1688149416826"
+                                    }
+                                },
+                                {
+                                    "id": "9",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                },
+                                {
+                                    "id": "14",
+                                    "deal": {
+                                        "id": "7",
+                                        "title": "Teacher Created Resources First 100 Sight Words Pocket Chart Cards, 119 Pieces Per Pack, 2 Packs (TCR20845-2)",
+                                        "url": "https://www.staples.com/product_24568936?cid=AFF:24568936",
+                                        "price": 2999,
+                                        "createdAt": "1688149416835",
+                                        "updatedAt": "1688149416835"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "8",
+                "title": "Household Essentials Krush Container Red/Black Poly Cotton Utility Tote, Large (2220-1)",
+                "url": "https://www.staples.com/household-essentials-krush-container-red-black-poly-cotton-utility-tote-large-2220-1/product_24569558?cid=AFF:24569558",
+                "price": 2099,
+                "description": "This is a great product!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/732A6D1C-B669-4322-85FAA56AD8B232F7_sc7?wid=512&hei=512",
+                    "description": "This Household Essentials Krush Container versatile utility tote is spacious, durable, practical and has a variety of applications. It's perfect for beach days, camping trips, picnics, tailgating, kids' sports games, grocery shopping, hauling laundry or just as an organizer tote in your trunk or home. The bag is made of canvas with a water-resistant vinyl lining. The lining is grafted into the fabric, adding durable protection without extra weight or bulk. The water-resistant lining means easy cleanup, on the inside or outside. Prevent moisture from seeping into the bag from wet sand or grass, and keep moisture from condensation or spills inside the bag from leaking out. The lining also helps prevent staining and makes the bag easier to clean. The tote features two long handles attached for easy carrying, and four large exterior pockets with hook-and-loop closures to keep them secure. These pockets are perfect for keeping essential items within easy reach, such as sunscreen or sports drinks, without having to dive into the bag's large main compartment. The bag's long rectangular shape is especially well-suited for any trunk, making it a great bag to keep with you in your car. Use this tote to carry essentials, such as emergency kit items or tools, or just as an organizer for other car essentials. Fill it up with car or dorm essentials before sending a new grad on their way, or fill it with drinks and snacks for a road trip. The durable lining means you can use the bag to house trash from finished drinks and snacks, too, knowing you'll have an easy cleanup later. When the bag is not in use, it folds flat for easy storage. To clean the bag, give it a rinse and use the attached hanging loop to hang it out to dry. Dimensions: 13\"H x 22\"W x 11\"D. When the bag is not in use, it folds flat for easy storage. Equipped with two long handles for easy carrying. Water-resistant lining means easy cleanup both on the inside and outside of the bag. This large treated poly canvas utility tote with a water-resistant vinyl lining has a number of practical uses and features. Bag's long rectangular shape is well-suited for any trunk, making it great to keep with you in your car. Collapsible and water-resistant, with four large exterior pockets with hook-and-loop closures to keep contents secure. Use for picnics, beach days, camping, sporting events, grocery shopping, and more",
+                    "sku": "24569558",
+                    "updatedAt": "2023-06-25 19:13:29"
+                },
+                "createdAt": "1688149416838",
+                "updatedAt": "1688149416838",
+                "likes": [
+                    {
+                        "id": "10",
+                        "user": {
+                            "id": "2",
+                            "name": "Jane Smith",
+                            "likes": [
+                                {
+                                    "id": "2",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "5",
+                                    "deal": {
+                                        "id": "4",
+                                        "title": "Dell - OptiPlex 7000 Desktop - Intel Core i5-13500 - 8GB Memory - 256GB SSD - Black",
+                                        "url": "https://api.bestbuy.com/click/-/6544288/pdp",
+                                        "price": 72999,
+                                        "createdAt": "1688149416828",
+                                        "updatedAt": "1688149416828"
+                                    }
+                                },
+                                {
+                                    "id": "10",
+                                    "deal": {
+                                        "id": "8",
+                                        "title": "Household Essentials Krush Container Red/Black Poly Cotton Utility Tote, Large (2220-1)",
+                                        "url": "https://www.staples.com/household-essentials-krush-container-red-black-poly-cotton-utility-tote-large-2220-1/product_24569558?cid=AFF:24569558",
+                                        "price": 2099,
+                                        "createdAt": "1688149416838",
+                                        "updatedAt": "1688149416838"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "9",
+                "title": "Kanguru UltraLock 5TB External USB 3.0 Portable Hard Drive, Black (U3-2HDWP-5T)",
+                "url": "https://www.staples.com/product_IM18TN732?cid=AFF:IM18TN732",
+                "price": 31249,
+                "description": "You can't go wrong with this one!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/E7288930-8D5F-4BA5-AD146C0E18FEBD6C_sc7?wid=512&hei=512",
+                    "description": "The Kanguru UltraLock USB 3. 0 External Hard Drive is a high-speed USB 3. 0 that offers a generous amount of data storage. The UltraLock features a convenient physical write protect switch to toggle between reading/write and read-only mode. This great feature when enabled can give you peace of mind to work safely on any computer the UltraLock is connected to. Students, travellers and researchers alike will appreciate the ability to read files on any school, library or hotel workstation without the worry of being possibly infected by a virus that could be lurking on a public computer. The lightweight design of this write-protected external hard drive makes it small and light enough for backpacks, even pockets and is a great, affordable way to store data. The protective rubber skin provides protection from jars and bumps, making it ideal for travel. Comes with a protective rubber skin, USB 3. 0 Y-type cable, and quick start guide. Features a USB 3. 0 port with up to 100MB/s (USB 3. 0) or 30MB/s (USB 2. 0) sequential read and 90MB/s (USB 3. 0) or 25MB/s (USB 2. 0) sequential write speeds. Compact, lightweight, durable construction. 2-year manufacturer limited warranty. Compatible with Windows 8/10/11, macOS 10. 3 or newer, and Linux. 5TB external hard drive for a simple and affordable way to save and protect your data. Physical write protect switch. Bus powered. Meets or exceeds the TAA standards",
+                    "sku": "IM18TN732",
+                    "updatedAt": "2023-06-18 20:54:21"
+                },
+                "createdAt": "1688149416840",
+                "updatedAt": "1688149416840",
+                "likes": [
+                    {
+                        "id": "11",
+                        "user": {
+                            "id": "3",
+                            "name": "Alex Johnson",
+                            "likes": [
+                                {
+                                    "id": "3",
+                                    "deal": {
+                                        "id": "2",
+                                        "title": "LumiSource Dormi Contemporary Fabric Recliner Chair, Gray",
+                                        "url": "https://www.officedepot.com/a/products/8001030/LumiSource-Dormi-Contemporary-Fabric-Recliner-Chair/",
+                                        "price": 48999,
+                                        "createdAt": "1688149416824",
+                                        "updatedAt": "1688149416824"
+                                    }
+                                },
+                                {
+                                    "id": "6",
+                                    "deal": {
+                                        "id": "5",
+                                        "title": "GE Reveal HD+ 8-Watt White LED General-Purpose Bulb, 2/Pack (93129441)",
+                                        "url": "https://www.staples.com/ge-reveal-hd-8-watt-white-led-general-purpose-bulb-2-pack-93129441/product_24569007?cid=AFF:24569007",
+                                        "price": 1399,
+                                        "createdAt": "1688149416830",
+                                        "updatedAt": "1688149416830"
+                                    }
+                                },
+                                {
+                                    "id": "11",
+                                    "deal": {
+                                        "id": "9",
+                                        "title": "Kanguru UltraLock 5TB External USB 3.0 Portable Hard Drive, Black (U3-2HDWP-5T)",
+                                        "url": "https://www.staples.com/product_IM18TN732?cid=AFF:IM18TN732",
+                                        "price": 31249,
+                                        "createdAt": "1688149416840",
+                                        "updatedAt": "1688149416840"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "10",
+                "title": "BAZIC Products® Basic Backpack 16\" Fuchsia, Pack of 2 (BAZ1036-2)",
+                "url": "https://www.staples.com/product_24568897?cid=AFF:24568897",
+                "price": 3559,
+                "description": "This is a great product!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp209807349_sc7?wid=512&hei=512",
+                    "description": "This 16\" school bag features 2 compartments: one large compartment mainly for larger items such as text book, binders, and laptops, the other compartment is a smaller compartment located in front, mainly for smaller items, such as cell phones, keys, and hand sanitizer. Both compartments have zipper closure. There are 2 adjustable shoulder straps nicely padded for comfort when carrying the backpack. There are 2 zipper pulls for the large compartment, and 1 zipper pull for the smaller compartment. There is a nylon handle on top of the backpack, convenient for hanging the backpack on hook outside of classrooms, or any hanger. Bazic Products' logo is stitched in the front, on the bottom right of the small compartment for recognition. Sold as a pack of 2 backpacks. Ideal for schools, stadiums and travel. Backpack size: 16\". Lightly padded, adjustable shoulder straps and carrying handle. Color: Fuchsia. 1 large main compartment, 1 small front compartment, 1 side mesh pocket. Suitable for school, the office, and more. Fits 15\" laptop. BAZIC Basic backpacks are multi-functional, light-weight, made of durable material, and come in bright colors.",
+                    "sku": "24568897",
+                    "updatedAt": "2023-06-24 20:55:47"
+                },
+                "createdAt": "1688149416842",
+                "updatedAt": "1688149416842",
+                "likes": [
+                    {
+                        "id": "12",
+                        "user": {
+                            "id": "4",
+                            "name": "Emily Wilson",
+                            "likes": [
+                                {
+                                    "id": "7",
+                                    "deal": {
+                                        "id": "1",
+                                        "title": "My Arcade All-Star Stadium Pico Player, Universal",
+                                        "url": "https://www.officedepot.com/a/products/9025577/My-Arcade-All-Star-Stadium-Pico/",
+                                        "price": 1999,
+                                        "createdAt": "1688149416821",
+                                        "updatedAt": "1688149416821"
+                                    }
+                                },
+                                {
+                                    "id": "12",
+                                    "deal": {
+                                        "id": "10",
+                                        "title": "BAZIC Products® Basic Backpack 16\" Fuchsia, Pack of 2 (BAZ1036-2)",
+                                        "url": "https://www.staples.com/product_24568897?cid=AFF:24568897",
+                                        "price": 3559,
+                                        "createdAt": "1688149416842",
+                                        "updatedAt": "1688149416842"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "11",
+                "title": "JBL - L10cs 10\" 250W Powered Subwoofer, Black Walnut - Black Walnut",
+                "url": "https://api.bestbuy.com/click/-/6549277/pdp",
+                "price": 69999,
+                "description": "My sister bought this for me and I love it! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6549/6549277_sd.jpg",
+                    "description": "The L10cs’ 10-inch, down-firing polycellulose white cone woofer is driven by an advanced 250W RMS (500W dynamic) built-in amplifier. Additional features include auto on/off, adjustable crossover, phase, and volume, and a bass reflex system with rear-firing tuned ports.",
+                    "sku": "6549277",
+                    "updatedAt": "2023-06-27 06:10:03"
+                },
+                "createdAt": "1688149416844",
+                "updatedAt": "1688149416844",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "12",
+                "title": "SaharaCase - Silicone Combo Kit Case for Apple AirPods Max Headphones - Black",
+                "url": "https://api.bestbuy.com/click/-/6547974/pdp",
+                "price": 5995,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6547/6547974ld.jpg",
+                    "description": "Retain the pristine condition of your Apple AirPods Max headphones with this SaharaCase silicone combo kit case. The kit includes a range of protective accessories to provide comprehensive coverage for your AirPods Max. It consists of silicone inner ear covers, silicone outer shell covers, and a silicone headband cover. This ensures 360-degree protection for your cherished headphones.",
+                    "sku": "6547974",
+                    "updatedAt": "2023-06-27 12:10:24"
+                },
+                "createdAt": "1688149416846",
+                "updatedAt": "1688149416846",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "13",
+                "title": "Microsoft Surface Laptop 5 13.5\" Touchscreen - Intel Core i5 1.60 GHz - 16 GB Total RAM - 256 GB SSD - Windows 11 Pro",
+                "url": "https://www.officedepot.com/a/products/7966804/Microsoft-Surface-Laptop-5-135-Touchscreen/",
+                "price": 146199,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/7966804/7966804_o51_et_10427290.jpg",
+                    "description": "18 Hours battery run time helps you stay unwired and work longer non-stop  With 16 GB of memory, runs as many programs as you want without losing the execution  The 13.5\" 2256 x 1504 screen provides a great movie watching experience  256 GB SSD keeps your running programs active while your computer resumes from suspension in seconds  Intel Core i5 1.60 GHz processor provides great performance, immersive multimedia and rapid loading of programs",
+                    "sku": "7966804",
+                    "updatedAt": "2023-06-16 21:02:12"
+                },
+                "createdAt": "1688149416848",
+                "updatedAt": "1688149416848",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "14",
+                "title": "GreenTech Environmental pureAir Solo Ionic Personal Air Purifier, White (1X4925)",
+                "url": "https://www.staples.com/greentech-environmental-pureair-solo-ionic-personal-air-purifier-white-1x4925/product_24559273?cid=AFF:24559273",
+                "price": 5999,
+                "description": "This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/7F6118F0-85EB-4C27-905437FE5C9EEA65_sc7?wid=512&hei=512",
+                    "description": "The GreenTech Environmental pureAir SOLO is a sleek, wearable air purifier that creates a personal 3' clean-air zone by repelling particles from your breathing space. Visit friends and family without the negative effects of other's pet dander, perfumes, or colognes. When used with a conventional filtering face mask, the continuous emission of unipolar air ions has been shown to considerably enhance the filtering efficiency against fine and ultrafine particles. The effect is driven by the repelling forces that cared ions create between the mask and the aerosol particles, creating an electrostatic shield against incoming particles. Purification lasts all day, with a rechargeable battery providing over 24 hours of use per charge. Includes a USB charging cable and breakaway neck cord. Use the pureAir SOLO to enhance other healthy habits. The pureAir SOLO is not a medical device and is not a replacement for other practices recommended by the CDC. Safety Data Sheet . Creates a 3' personal clean-air zone. Sleek wearable air purifier creates a personal breathing zone by repelling particles from your breathing space. Charge time: 3 to 5 hours (Micro-USB). 1-year manufacturer limited warranty. Applications: travel, running errands, schools, waiting rooms, offices, social gatherings, gardening allergy relief. Reduces your exposure to dust, pet dander, and other allergens. Place around your neck using the breakaway lanyard cord, and turn it on. Included accessories: breakaway neck lanyard. Power usage: 0. 2 W. Dimensions: 2. 95\"H x 1. 94\"W x 0. 67\"D; weight: 0. 14 lbs. Solid platinum permanent emitter and gold-plated stainless steel collectors produce ion density of 50 million per cubic cm at an ion wind of 90' per minute. Lithium battery lasts up to 28 hours of purification bliss",
+                    "sku": "24559273",
+                    "updatedAt": "2023-06-25 19:51:33"
+                },
+                "createdAt": "1688149416850",
+                "updatedAt": "1688149416850",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "15",
+                "title": "Govee DreamView T1 Pro Multicolor LED TV Backlight (B605DA11)",
+                "url": "https://www.staples.com/product_24561669?cid=AFF:24561669",
+                "price": 13999,
+                "description": "This is a great deal! I wish I had bought more!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp204069236_sc7?wid=512&hei=512",
+                    "description": "Govee DreamView T1 Pro TV Backlight brings an unprecedented immersive visual experience to any home theater. Its camera and mic capture the colors, movement, and audio of your content and automatically projects real-time reactive bias lighting onto the wall behind via an RGBIC strip light and two light bars, or you can personalize your settings with rich, preset lighting effects. App control with Govee Home or voice control with Alexa or Google Assistant. Expect double the immersive experience with Govee Envisual color-match technology using intelligent color sensing. Install with ease on 55\"-65\" TVs. Outlet. 12-month limited warranty. Wattage: 36W. 2. 4Ghz WI-FI and Bluetooth/Voice+App Control. RGBIC TV Backlight for 55\"-65\" TVs. Alexa or Google Assistant. LED TV Backlight. Indoor",
+                    "sku": "24561669",
+                    "updatedAt": "2023-06-16 19:07:09"
+                },
+                "createdAt": "1688149416852",
+                "updatedAt": "1688149416852",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "16",
+                "title": "Microsoft Surface Laptop 5 15\" Touchscreen Notebook - Intel Core i7 - 16 GB Total RAM - 256 GB SSD - Platinum - Windows 11 Pro",
+                "url": "https://www.officedepot.com/a/products/9223358/Microsoft-Surface-Laptop-5-15-Touchscreen/",
+                "price": 171399,
+                "description": "What a fantastic price on a must-have product - you should totally buy this right now!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/9223358/9223358_o51_et_10425695.jpg",
+                    "description": "The 15\" 2496 x 1664 screen provides a great movie watching experience  256 GB total SSD capacity keeps your running programs active while your computer resumes from suspension in seconds  17 Hours battery run time helps you stay unwired and work longer non-stop  With 16 GB LPDDR5X of memory, users can run many programs without losing execution",
+                    "sku": "9223358",
+                    "updatedAt": "2023-06-16 21:14:27"
+                },
+                "createdAt": "1688149416854",
+                "updatedAt": "1688149416854",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "17",
+                "title": "Alpine AdirOffice 1-Tier Steel Lockers, 72\"H x 12\"W x 12\"D, Blue, Pack Of 4 Lockers",
+                "url": "https://www.officedepot.com/a/products/8740087/Alpine-AdirOffice-1-Tier-Steel-Lockers/",
+                "price": 89899,
+                "description": "This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/8740087/8740087_o01.jpg",
+                    "description": "Whether you need a student locker or a storage locker, this unit provides the dependable space you're after. The steel locker features a built-in shelf for books, sports equipment and more and 2 hooks to keep hats, coats and scarves within reach.  Made with a steel frame and sides for everyday strength.  Rubber feet on the bottom help keep the unit in place.  Dual-locking mechanism to secure your items (2 keys included).  Vented door helps reduce odors and bacteria.  Built-in shelf and 2 internal hooks to keep things organized.  Name tag slot to allow personalization.  Locker interior measures 69-5/8\"H x 12\"W x 12\"D.  Assembly required.  Backed by the manufacturer's 1-year manufacturer warranty.  Blue helps create a colorful space.",
+                    "sku": "8740087",
+                    "updatedAt": "2023-06-17 19:41:46"
+                },
+                "createdAt": "1688149416857",
+                "updatedAt": "1688149416857",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "18",
+                "title": "Linon Brenock Sherpa Rectangle Storage Ottoman, 18\"H x 32\"W x 16\"D, Tan/Natural",
+                "url": "https://www.officedepot.com/a/products/7087800/Linon-Brenock-Sherpa-Rectangle-Storage-Ottoman/",
+                "price": 20999,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/7087800/7087800_o01.jpg",
+                    "description": "Complete your living space with the Linon Brenock Sherpa Rectangle Storage Ottoman. The ottoman top lifts up, revealing a hidden storage compartment for blankets, games and more. Its Sherpa fabric upholstery helps create a comfortable sitting space.  Overall Dimensions: 18\"H x 32\"W x 16\"D.  Weight capacity tested to support 200 lb.  Soft Sherpa fabric upholstery and a padded seat.  Removable lid reveals an interior storage area measuring 11-3/4\"H x 28-2/5\"W x 12-1/4\"D.  Pinewood trim.  Save time - no assembly required.  Backed by the manufacturer's 1-year limited warranty.",
+                    "sku": "7087800",
+                    "updatedAt": "2023-06-24 19:30:23"
+                },
+                "createdAt": "1688149416858",
+                "updatedAt": "1688149416858",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "19",
+                "title": "ALPHA HOME Faux Leather Counter-Height Stool, Black",
+                "url": "https://www.officedepot.com/a/products/2170600/ALPHA-HOME-Faux-Leather-Counter-Height/",
+                "price": 8592,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/2170600/2170600_o01.jpg",
+                    "description": "Make sure guests are comfortable in your eating area with help from this upholstered stool. The cushioned stool features faux leather over foam padding to help users relax in style. The steel stool frame is built to last and features a foot ring.  Overall Dimensions: 24\"H x 18-7/8\"W x 15-3/4\"D.  Weight capacity tested to support 250 lb.  PU leather upholstery with high-density sponge foam padding.  High-density steel frame with a foot ring.  Anti-slip foot mats.  Assembly required.  Backed by the manufacturer's 1-year limited warranty.  Faux Leather is a synthetic material. See specs for details",
+                    "sku": "2170600",
+                    "updatedAt": "2023-06-28 18:55:39"
+                },
+                "createdAt": "1688149416860",
+                "updatedAt": "1688149416860",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "20",
+                "title": "Charles Leonard 3-Hole Punch, 12 Sheet Capacity, Black (CHL033-2)",
+                "url": "https://www.staples.com/product_24496021?cid=AFF:24496021",
+                "price": 2869,
+                "description": "This is a great deal! I wish I had bought more!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp132957959_sc7?wid=512&hei=512",
+                    "description": "The three-hole adjustable paper punch features black enamel finish, non-skid base, removable chip trap and accurate built-in centering guides. Fully adjustable and converts to a two-hole punch with built-in neutralizing center head. Punches up to 12 sheets of 16 lb. paper. 0. 28\" hole Diameter. Sold as a pack of 2 paper punches. 3-Hole Punch. 12. 5\" x 2. 8\" x 4. 2\". Circle. 12 Sheet Capacity. 9/32\". Black Enamel Finish, Non-Skid Base, Removable Chip Trap, Built-In Centering Guides. Black",
+                    "sku": "24496021",
+                    "updatedAt": "2023-06-22 19:47:11"
+                },
+                "createdAt": "1688149416862",
+                "updatedAt": "1688149416862",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "21",
+                "title": "OtterBox Commuter Series Blue Cover for iPhone 14 Pro (77-88429)",
+                "url": "https://www.staples.com/product_IM106RH41?cid=AFF:IM106RH41",
+                "price": 3995,
+                "description": "What a fantastic price on a must-have product - you should totally buy this right now!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/2D99F2B3-7620-475D-84BE7F201E65E925_sc7?wid=512&hei=512",
+                    "description": "Get moving with OtterBox Commuter Series, the thin iPhone 14 Pro case that keeps your phone safe from drops and bumps. A silver-based antimicrobial additive is integrated into the case that helps inhibit microbial growth and defends the case exterior against many common bacteria. Wireless ready, it works with both Qi charging and MagSafe (no magnets in case). Built to beat the daily grind, Commuter Series combines a pocket-friendly profile with robust defense and added grip to ensure you keep going mile after mile. Lasting antimicrobial properties help protect the case exterior (not you or the screen) against many common bacteria. Protect your iPhone 14 Pro with this cover that securely encases the smartphone's corners and back. Port covers block dust and dirt. Works with wireless and MagSafe charging pads (no magnets in the case). 7-year manufacturer limited warranty. Comes in a Don't Be Blue solid pattern and features a synthetic rubber slipcover with polycarbonate shell. Drop-tested to meet the MIL-STD-810G 516. 6 standard. Dimensions: 6. 06\"H x 3. 11\"W x 0. 58\"D. Made with more than 35% recycled plastic. Pocket-friendly profile with robust defense and added grip combine to ensure you keep going mile after mile. Provides dual-layer defense",
+                    "sku": "IM106RH41",
+                    "updatedAt": "2023-06-28 20:23:13"
+                },
+                "createdAt": "1688149416864",
+                "updatedAt": "1688149416864",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "22",
+                "title": "Jabra ® 14101-45 Foam Ear Cushion for Jabra EVOLVE ™ 20, 30, 40 and 65, Black",
+                "url": "https://www.staples.com/Jabra-14101-45-Foam-Ear-Cushion-for-Jabra-EVOLVE-20-30-40-and-65-Black/product_IM1XU1696?cid=AFF:IM1XU1696",
+                "price": 2399,
+                "description": "This is a great product!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/m003088323_sc7?wid=512&hei=512",
+                    "description": "The Jabra ® black foam ear cushion is compatible with Jabra Evolve ™ 20, 30, 40 and 65 headsets, sold as 10/pack. Material: Foam. Comes in black color. Compatible with Jabra EVOLVE ™ 20, 30, 40 and 65. Ear cushion offers long listening comfort",
+                    "sku": "IM1XU1696",
+                    "updatedAt": "2023-06-22 19:35:33"
+                },
+                "createdAt": "1688149416866",
+                "updatedAt": "1688149416866",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "23",
+                "title": "Canon MC-G01 Maintenance Cartridge, Black (4628C001)",
+                "url": "https://www.staples.com/canon-mc-g01-maintenance-cartridge-black-4628c001/product_24569666?cid=AFF:24569666",
+                "price": 1799,
+                "description": "This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/B78C2977-C7FF-476C-BF686E2A7B8BD095_sc7?wid=512&hei=512",
+                    "description": "The Canon MC-G01 maintenance cartridge is an essential component of your printer. Designed to be easily replaceable by users, it absorbs the ink used in printhead cleaning cycles and during excess ink overspray. Once your cartridge is full, you will be notified by the screen on your printer. Replace the maintenance cartridge occasionally to ensure high-quality printing and smooth functioning. This maintenance cartridge absorbs the ink used in printhead cleaning cycles and during excess ink overspray. Protects the printer from internal ink leakage. 1-year manufacturer limited warranty. Ensures high-quality printing and smooth printer functioning. Compatible with Canon MAXIFY MegaTank GX6050/GX7040/GX7050/GX5050/GX6040/GX5040/GX6020/GX7020/GX5020 printers. Designed to be easily replaceable by users to reduce the need for repair services",
+                    "sku": "24569666",
+                    "updatedAt": "2023-06-25 19:28:42"
+                },
+                "createdAt": "1688149416868",
+                "updatedAt": "1688149416868",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "24",
+                "title": "Sauder�  Boulevard Caf� 19\"D Lateral 2-Drawer File Cabinet, White/Haze Acacia",
+                "url": "https://www.officedepot.com/a/products/9725460/Sauder-Boulevard-Caf-19D-Lateral-2/",
+                "price": 39999,
+                "description": "This is a great deal! I wish I had bought more!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/9725460/9725460_o01.jpg",
+                    "description": "Bring minimalist, industrial style to your office with the Sauder 2-Drawer Lateral File Cabinet. Display office d�cor pieces on the spacious top surface, and use the drawers to sort important paperwork. This modern lateral file cabinet opens fully, so you can easily reach documents from A to Z. The blend of wood and metal creates an eye-catching design that suits multiple furniture collections.  Sauder lateral file is crafted from engineered wood and a powder-coat metal frame.  2 drawers hold letter- or legal-size hanging files.  Full-extension slides.  Assembly required.",
+                    "sku": "9725460",
+                    "updatedAt": "2023-06-22 21:12:34"
+                },
+                "createdAt": "1688149416870",
+                "updatedAt": "1688149416870",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "25",
+                "title": "Dell - OptiPlex 7000 23.8\" All-In-One - Intel Core i5 - 8 GB Memory - 256 GB SSD - Silver",
+                "url": "https://api.bestbuy.com/click/-/6546910/pdp",
+                "price": 127499,
+                "description": "This is a must have!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6546/6546910_sd.jpg",
+                    "description": "The Dell OptiPlex 7000 Series are intelligent desktops built for ultimate expandability and performance. From the Intel Core vPro processors and Intel GPUs to deliver business-class performance to accelerate productivity while minimizing security risks and M.2 SSD for fast boot times and file accesses to Dell Optimizer for more intuitive connectivity and audio experiences and a ventilated front bezel that allows high air intake to keep your system cool and protected, the OptiPlex 7000 Series revolutionizes the way you work.",
+                    "sku": "6546910",
+                    "updatedAt": "2023-06-23 06:02:26"
+                },
+                "createdAt": "1688149416872",
+                "updatedAt": "1688149416872",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "26",
+                "title": "Microsoft Surface Laptop 4 13.5\" Touchscreen - Intel Core i5 - 8 GB Total RAM - 512 GB SSD - Ice Blue- Windows 10 Pro",
+                "url": "https://www.officedepot.com/a/products/7992497/Microsoft-Surface-Laptop-4-135-Touchscreen/",
+                "price": 142199,
+                "description": "This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/7992497/7992497_o51_et_10426181.jpg",
+                    "description": "The 13.5\" 2256 x 1504 screen provides a great movie watching experience  With Windows 10 Pro edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.  512 GB total SSD capacity is enough to store your essential documents and files, favorite songs, movies and pictures  With 8 GB memory, you can switch between various applications without issue",
+                    "sku": "7992497",
+                    "updatedAt": "2023-06-16 21:02:27"
+                },
+                "createdAt": "1688149416874",
+                "updatedAt": "1688149416874",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "27",
+                "title": "Microsoft HFT-00001 USB-C to VGA Adapter, Black",
+                "url": "https://www.staples.com/microsoft-hft-00001-usb-c-to-vga-adapter-black/product_IM12FM709?cid=AFF:IM12FM709",
+                "price": 4649,
+                "description": "What a fantastic price on a must-have product - you should totally buy this right now!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp69089025_sc7?wid=512&hei=512",
+                    "description": "This Microsoft proprietary VGA adapter lets you share photos, video, and presentations in a way that's larger than life. Plug into VGA-compatible displays, monitors, or projectors. Compatible with your surface with USB-C port. Comes in black. Surface USB-C to VGA adapter great for data transferring. Connectivity: 24-pin USB Type-C to 15-pin VGA",
+                    "sku": "IM12FM709",
+                    "updatedAt": "2023-06-18 20:54:11"
+                },
+                "createdAt": "1688149416876",
+                "updatedAt": "1688149416876",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "28",
+                "title": "Dell - OptiPlex 7000 23.8\" All-In-One - Intel Core i5 - 16 GB Memory - 256 GB SSD - Dark Gray",
+                "url": "https://api.bestbuy.com/click/-/6546906/pdp",
+                "price": 111999,
+                "description": "The best deal on this site!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6546/6546906_sd.jpg",
+                    "description": "The Dell OptiPlex 7000 Series are intelligent desktops built for ultimate expandability and performance. From the Intel Core vPro processors and Intel GPUs to deliver business-class performance to accelerate productivity while minimizing security risks and M.2 SSD for fast boot times and file accesses to Dell Optimizer for more intuitive connectivity and audio experiences and a ventilated front bezel that allows high air intake to keep your system cool and protected, the OptiPlex 7000 Series revolutionizes the way you work.",
+                    "sku": "6546906",
+                    "updatedAt": "2023-06-23 06:02:23"
+                },
+                "createdAt": "1688149416878",
+                "updatedAt": "1688149416878",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "29",
+                "title": "Sargent Art Sculpt it Air-Hardening Sculpting Material, White, 2 lb. Per Pack, 2 Packs (SAR222000-2)",
+                "url": "https://www.staples.com/product_24568871?cid=AFF:24568871",
+                "price": 3899,
+                "description": "You can't go wrong with this one!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp209829636_sc7?wid=512&hei=512",
+                    "description": "Sargent Art® Sculpt-It® is a smooth, air-hardening sculpting material is ideal for freehand modeling and creating realistic sculptures. No kiln or heat baking required for drying. Dries to an almost ceramic hard surface with minimal shrinkage during the drying process. Can be moistened while pliable to encourage piece to piece adhesion, smoothing & blending and to avoid cracking, colors can be blended together to create new colors or unique marbling effects. Each tub includes 2 lb. of sculpting material. Sold as a pack of 2 tubs. Includes 2 lb. Per Pack, 2 Packs. Suggested age: 3+ years. WARNING: California Proposition 65 Warning. This product can expose you to chemicals including lead, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www. P65Warnings. ca. gov . Color: Cream/White. Size: 2 lb tubs. Dries to a ceramic-hard, extremely rigid surface with minimal shrinking, no kiln or baking needed. Sargent Art® Sculpt-It® is a smooth, air-hardening sculpting material is ideal for freehand modeling and creating realistic sculptures.",
+                    "sku": "24568871",
+                    "updatedAt": "2023-06-24 20:22:59"
+                },
+                "createdAt": "1688149416879",
+                "updatedAt": "1688149416879",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "30",
+                "title": "Sargent Art Watercolor Crayons, 8 Colors Per Set, 6 Sets (SAR221108-6)",
+                "url": "https://www.staples.com/product_24568597?cid=AFF:24568597",
+                "price": 6099,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp209829629_sc7?wid=512&hei=512",
+                    "description": "Crayons can be used dry, or can be used dry and when a wet brush is applied, the color drawn becomes like a watercolor paint. This can be brushed as a liquid watercolor paint directly on the surface you are working on. Comes in an easy-to-use sleeve package. Also includes art tips for achieving special effects on back of package. Each set contains 8 Sargent Art® Watercolor Crayons. Sold as 6 sets for a total of 48 watercolor crayons. Assorted colors. Contains 8 crayons per set, 6 sets. Apply wet or dry. Non-toxic & AP certified. Artist quality pigments blend easily with water. WARNING: California Proposition 65 Warning. This product can expose you to chemicals including lead, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www. P65Warnings. ca. gov . Comes in an easy-to-use sleeve package. Achieve amazing watercolor effects with Sargent Art® Watercolor Crayons. Sargent Art® Watercolor Crayons are a great way to add a watercolor effect.",
+                    "sku": "24568597",
+                    "updatedAt": "2023-06-24 20:07:13"
+                },
+                "createdAt": "1688149416881",
+                "updatedAt": "1688149416881",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "31",
+                "title": "Alpine AdirOffice 1-Tier Steel Lockers, 72\"H x 12\"W x 12\"D, Misty Green, Pack Of 4 Lockers",
+                "url": "https://www.officedepot.com/a/products/8202631/Alpine-AdirOffice-1-Tier-Steel-Lockers/",
+                "price": 89899,
+                "description": "My sister bought this for me and I love it! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/8202631/8202631_o01.jpg",
+                    "description": "Whether you need a student locker or a storage locker, this unit provides the dependable space you're after. The steel locker features a built-in shelf for books, sports equipment and more and 2 hooks to keep hats, coats and scarves within reach.  Made with a steel frame and sides for everyday strength.  Rubber feet on the bottom help keep the unit in place.  Dual-locking mechanism to secure your items (2 keys included).  Vented door helps reduce odors and bacteria.  Built-in shelf and 2 internal hooks to keep things organized.  Name tag slot to allow personalization.  Locker interior measures 69-5/8\"H x 12\"W x 12\"D.  Assembly required.  Backed by the manufacturer's 1-year manufacturer warranty.  Misty green adds a soft yet stylish touch.",
+                    "sku": "8202631",
+                    "updatedAt": "2023-06-17 19:36:44"
+                },
+                "createdAt": "1688149416883",
+                "updatedAt": "1688149416883",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "32",
+                "title": "Koplow Games Blank Dice Set with Stickers, Teaching Resource, 6/Bundle (KOP17586-6)",
+                "url": "https://www.staples.com/koplow-games-blank-dice-set-with-stickers-teaching-resource-6-bundle-kop17586-6/product_24496383?cid=AFF:24496383",
+                "price": 3599,
+                "description": "The best deal on this site!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp132958995_sc7?wid=512&hei=512",
+                    "description": "These versatile cubes and stickers allow you to make your own games and activities or replace a missing die. Each pack includes 12 - 5/8\" (16mm) blank cube in yellow white, green and red, and 150 - 1/2\" circular white stickers. Sold as 6 packs for a total of 72 dice and 900 stickers. 6\" x 6\" x3\". Grade K+. Perfect addition to any classroom to make your own games",
+                    "sku": "24496383",
+                    "updatedAt": "2023-06-16 19:14:08"
+                },
+                "createdAt": "1688149416885",
+                "updatedAt": "1688149416885",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "33",
+                "title": "Microsoft Surface Laptop 5 15\" Touchscreen Notebook - Intel Core i7 - 16 GB Total RAM - 256 GB SSD - Platinum- Windows 10 Pro",
+                "url": "https://www.officedepot.com/a/products/2853017/Microsoft-Surface-Laptop-5-15-Touchscreen/",
+                "price": 177799,
+                "description": "This is a great product!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/2853017/2853017_o51_et_10426997.jpg",
+                    "description": "17 Hours battery run time helps you stay unwired and work longer non-stop  The 15\" 2496 x 1664 screen provides a great movie watching experience  With Windows 10 Pro edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.  256 GB total SSD capacity keeps your running programs active while your computer resumes from suspension in seconds  With 16 GB of memory, users can run many programs without losing execution",
+                    "sku": "2853017",
+                    "updatedAt": "2023-06-16 20:21:13"
+                },
+                "createdAt": "1688149416887",
+                "updatedAt": "1688149416887",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "34",
+                "title": "Honey-Can-Do Freestanding Toilet Paper Holder, Gray (BTH-08984)",
+                "url": "https://www.staples.com/honey-can-do-freestanding-toilet-paper-holder-gray-bth-08984/product_24566464?cid=AFF:24566464",
+                "price": 1799,
+                "description": "This is a great deal! I wish I had bought more!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/25E6F739-B0E6-47BC-BBB2980DD06395E5_sc7?wid=512&hei=512",
+                    "description": "Up the aesthetics of your bathroom with this Honey-Can-Do freestanding toilet paper holder. Perfect for small bathrooms with its freestanding design, it holds the tissue paper roll in use as well as up to three rolls in reserve, and its steel construction is sure to stand the test of time. Freestanding toilet paper holder great for compact spaces. Made of durable steel in a soft, neutral gray finish. Conveniently stores up to three toilet paper rolls in reserve plus one in use",
+                    "sku": "24566464",
+                    "updatedAt": "2023-06-25 19:05:47"
+                },
+                "createdAt": "1688149416889",
+                "updatedAt": "1688149416889",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "35",
+                "title": "ProTeam GoFit 6 Qt Dry Pick-Up Commercial Backpack Vacuum, With ProBlade Hard Surface & Carpet Tool Kit",
+                "url": "https://www.officedepot.com/a/products/4244872/ProTeam-GoFit-6-Qt-Dry-Pick/",
+                "price": 71099,
+                "description": "This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/4244872/4244872_o01.jpg",
+                    "description": "Make sure your commercial space is clean and ready for guests with help from this ProTeam vacuum. The backpack vacuum features a quick-adjust harness and thick padding to provide comfort during use. Its ProLevel Filtration System grabs and stores particulates with ease.  ProLevel Filtration System helps capture soil and potentially harmful particulates and keep them contained.  Commercial vacuum helps cover 1,054 sq. in. in total area and works on both carpeting and hard surfaces for versatility.  Injection-molded polypropylene copolymer body is built for lasting use. Low, triangular shape helps move with your body.  Filters are interchangeable with Super Coach Pro 6 units (filter #107314).  4-step FlexFit articulating and interchangeable harness features thick pads and open- and closed-weave fabric for comfort.  Quick-adjust harness allows a custom fit.  Cord management system with a cord wrap to keep the cord from getting in the way.  Vacuum motor, parts and labor backed by the manufacturer's 3-year limited warranty, and molded body parts backed by the manufacturer's lifetime limited warranty.",
+                    "sku": "4244872",
+                    "updatedAt": "2023-06-29 19:02:09"
+                },
+                "createdAt": "1688149416891",
+                "updatedAt": "1688149416891",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "36",
+                "title": "Custom Anywhere Belt Bag, 5\" x 7-1/2\"",
+                "url": "https://www.officedepot.com/a/products/9551893/Custom-Anywhere-Belt-Bag-5-x/",
+                "price": 700,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/9551893/9551893_o01.jpg",
+                    "description": "Give your clients or employees the Custom Anywhere Belt Bag to show your appreciation. This belt bag can be worn as a fanny pack or sling bag and is made of polyester for durability.  Polyester construction.  Zippered main compartment and back pocket.  Can be worn as a fanny pack or sling bag.  Detachable adjustable waist strap.  Spot clean or air dry.",
+                    "sku": "9551893",
+                    "updatedAt": "2023-06-24 19:53:52"
+                },
+                "createdAt": "1688149416893",
+                "updatedAt": "1688149416893",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "37",
+                "title": "Musgrave Pencil Company Stetro Pencil Grips, 36 Per Pack, 2 Packs (MUSDSTET36A-2)",
+                "url": "https://www.staples.com/product_24568843?cid=AFF:24568843",
+                "price": 4999,
+                "description": "My sister bought this for me and I love it! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp209825387_sc7?wid=512&hei=512",
+                    "description": "This is a large, comfortable grip shaped to position fingers correctly, keep the web space open and provide a wide area of contact with the fingers. Musgrave Pencil Company Stetro® Pencil Grips are manufactured to the highest quality available. Each pack includes 36 Pencil Grips in assorted colors. Sold as 2 packs for a total of 72 pencil grips. Keeps the web space open and provide a wide area of contact with the fingers. Manufactured to the highest quality rubber available. Shaped to position fingers correctly. Fitx regular sized pencils, Assorted colors. Contains 36 pencil grips per pack, 2 packs. Musgrave Pencil Company Stetro® Pencil Grips are designed to position fingers correctly. Large comfortable grips. WARNING: California Proposition 65 Warning. This product can expose you to chemicals including lead, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www. P65Warnings. ca. gov",
+                    "sku": "24568843",
+                    "updatedAt": "2023-06-24 21:18:25"
+                },
+                "createdAt": "1688149416895",
+                "updatedAt": "1688149416895",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "38",
+                "title": "Microsoft Surface Laptop 5 15\", Intel Core i7 12th, 32GB Memory, 1TB SSD, Windows 11 Pro (RL1-00001)",
+                "url": "https://www.staples.com/microsoft-surface-laptop-5-15-intel-core-i7-12th-32gb-memory-1tb-ssd-windows-11-pro-rl1-00001/product_IM108JL75?cid=AFF:IM108JL75",
+                "price": 235699,
+                "description": "This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/CA59ED51-FB82-4F5E-991E8D5EF5020AE3_sc7?wid=512&hei=512",
+                    "description": "Lightning-fast performance, sleek portability, an enhanced camera for engaging video calls, and built-in security enable impactful work on your terms. Available in 13. 5-inch and 15-inch sizes Touchscreen display 12th Gen Intel Core Processor. 1TB SSD enables you to store thousands of files. 1-year manufacturer limited warranty. Windows 11 Pro operating system provides an intuitive and user-friendly interface. 1. 8GHz Intel Core i7-1265U 10-core processor with up to 4. 8GHz speed and 12MB cache memory. Backlit keyboard lets you play day or night. 15\" screen provides a great movie watching experience. 32GB memory to run multiple programs. 802. 11a/b/g/n/ac/ax and Bluetooth 5. 1 wireless connectivity for easy Internet access. 47. 4Wh battery with a run time of up to 17 hours. LPDDR5X SDRAM memory technology for high-performance solution",
+                    "sku": "IM108JL75",
+                    "updatedAt": "2023-06-25 19:00:43"
+                },
+                "createdAt": "1688149416897",
+                "updatedAt": "1688149416897",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "39",
+                "title": "Hygloss 4\" & 6\" Heart Doilies, White & Red, 96/Pack, 3 Packs (HYG94466-3)",
+                "url": "https://www.staples.com/product_24507021?cid=AFF:24507021",
+                "price": 3999,
+                "description": "The best deal on this site!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp145093045_sc7?wid=512&hei=512",
+                    "description": "Our heart doilies can be used to make holiday greeting cards for Mothers Day, Valentines Day, and anniversaries. Paper doilies are also unique for creating elegant invitations for special occasions such as parties, graduations and dinners. Use our decorative heart doilies for crafts projects, table settings, card making and other projects where hearts will add warmth and color. Each pack includes 96 doilies: 24 each of read and white, 4\" and 6\". Sold as 3 packs for a total of 288 doilies. Includes both 4\" and 6\" hearts. Paper doilies are also unique for creating elegant invitations for special occasions such as parties, graduations and dinners. Doilies. Paper. 96 Per pack, sold as 3 packs, 288 doilies total. Great for crafts projects, table settings, card making and other projects where hearts will add warmth and color",
+                    "sku": "24507021",
+                    "updatedAt": "2023-06-24 20:55:07"
+                },
+                "createdAt": "1688149416899",
+                "updatedAt": "1688149416899",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "40",
+                "title": "TREND Sight Words – Level C Pocket Flash Cards, 6 Packs (T-23029-6)",
+                "url": "https://www.staples.com/product_24568688?cid=AFF:24568688",
+                "price": 3449,
+                "description": "The best deal on this site!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp209830101_sc7?wid=512&hei=512",
+                    "description": "Flashy by design! Build student confidence and skills using fun-filled flash cards. This pack, complete with activities, further develops reading skills with more sight words. Watch students enjoy learning and build skills on their own or with friends. . at school, home, or on the go! Durable, no-see-through cards with quick-sorting, rounded corners. 56 two-sided cards per pack, 3. 125\" x 5. 25\". For ages 6 and up. Sold as 6 identical packs of flash cards. Set includes activity ideas to challenge growing skill levels. Complements Sight Words A & B sets. Durable, no-see-through cards with quick-sorting, rounded corners. Great for school, home, travel. WARNING: California Proposition 65 Warning. This product can expose you to chemicals including lead, which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www. P65Warnings. ca. gov . Contains 56 Cards Per Pack, 6 Packs. Measures 4. 50\" x 6. 38\" x 3. 25\". Additional common basic sight words to build reading skills, per the Dolch and Fry reading lists. Grade 1-2",
+                    "sku": "24568688",
+                    "updatedAt": "2023-06-24 20:15:08"
+                },
+                "createdAt": "1688149416902",
+                "updatedAt": "1688149416902",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "41",
+                "title": "Oral B Healthy Clean Toothbrush, Assorted Colors",
+                "url": "https://www.officedepot.com/a/products/6832412/Oral-B-Healthy-Clean-Toothbrush-Assorted/",
+                "price": 149,
+                "description": "My sister bought this for me and I love it! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/6832412/6832412_o01.jpg",
+                    "description": "Promote healthy teeth and gums with the Oral B Healthy Clean Toothbrush. End-rounded bristles help to blast away plaque for a fresh smile.  Gentle, end-rounded bristles are designed to be gentle on teeth and gums.  Ergonomically-designed handle offers a comfortable grip.  For the best results, change your toothbrush regularly.  Available in assorted colors. Option for color choice is not available.",
+                    "sku": "6832412",
+                    "updatedAt": "2023-06-16 20:50:50"
+                },
+                "createdAt": "1688149416904",
+                "updatedAt": "1688149416904",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "42",
+                "title": "Nintendo - Link (Skyward Sword)",
+                "url": "https://api.bestbuy.com/click/-/6549140/pdp",
+                "price": 1599,
+                "description": "The best deal on this site!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6549/6549140_sd.jpg",
+                    "description": "Get cool in-game extras with amiibo accessories and compatible games.",
+                    "sku": "6549140",
+                    "updatedAt": "2023-06-23 12:03:44"
+                },
+                "createdAt": "1688149416906",
+                "updatedAt": "1688149416906",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "43",
+                "title": "MSI - Bravo 15 15.6\" 144hz Gaming Laptop FHD Ryzen 7-7735HS Radeon RX6550M 16GB Memory with 512GB SSD - Black",
+                "url": "https://api.bestbuy.com/click/-/6545082/pdp",
+                "price": 89999,
+                "description": "What a fantastic price on a must-have product - you should totally buy this right now!",
+                "product": {
+                    "availability": "OUT OF STOCK",
+                    "image": "https://pisces.bbystatic.com/prescaled/500/500/image2/BestBuy_US/images/products/6545/6545082_sd.jpg",
+                    "description": "Ambush at the peak-point, overlooking the enemy and about to march strongly, Bravo 15 is ready to ignite the gaming world. Combining the latest AMD Ryzen 7735HS processor and AMD Radeon RX 6550M graphics together, Bravo 15 satisfies the gamer's imagination in gaming. With the MSI exclusive thermal solution - Cooler Boost 5, empower the full performance of CPU and GPU. Also the 144Hz gaming display provides sharp and smooth visuals so gamers never miss a beat. Take advantage of Bravo 15 and soar like thunderbird in the game battlefield!.",
+                    "sku": "6545082",
+                    "updatedAt": "2023-06-26 06:03:19"
+                },
+                "createdAt": "1688149416908",
+                "updatedAt": "1688149416908",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "44",
+                "title": "Tripp Lite Vertical 16 Outlet Power Strip, Gray (PS4816)",
+                "url": "https://www.staples.com/product_IM1114215?cid=AFF:IM1114215",
+                "price": 8799,
+                "description": "What a fantastic price on a must-have product - you should totally buy this right now!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp42803689_sc7?wid=512&hei=512",
+                    "description": "Tackle electrical connections using this multiple outlet power strip. This power strip gives you 16 outlets to use with 15 amps each for the ultimate way to take care of plugging in your electronics safely and reliably. The design of this power strip features a 48-inch mountable housing that you can use either horizontally or vertically in offices, living rooms, workbenches, and more. This Tripp Lite multiple outlet power strip also has the bonus of a 15-foot cord to easily reach tough spaces. Lifetime manufacturer limited warranty. Includes: PS4816, mounting hardware instruction manual. Warranty: Lifetime limited. Metal housing stands up to the most demanding environments. 16-outlet power strips are great for office work stations requiring extended reach and extra outlets. Meets or exceeds cUL, UL 1363, and RoHS standards. Sturdy all-metal 48\" corded strip format. Dimensions: 48\"H x 1. 5\"W x 1. 5\"L. Comes in gray. Lighted power switch with locking transparent cover prevents accidental shutoff. Certifications and standards: UL1363, cUL. Dimensions: 48\"(H) x 1. 5\"(W) x 1. 5\"(D). Features an on-off switch, so you can use it to turn off all power to your equipment before you leave your office at the end of each day or week. Features a circuit breaker safeguarding against circuit overloads that cause damage to the equipment. Voltage rating of 120V, current rating of 15A, and power rating of 1800W. 15' power cord length. Plug your items in effortlessly with this Tripp Lite multiple outlet power strip. Keep your media room, shop, or office equipment within reach with this black Tripp Lite power strip with 16 outlets and a 15-foot cord. The rack-mountable, raceway-style unit can be positioned horizontally or vertically for efficient use of your space. The lighted power switch helps you avoid accidental shutoffs. The power strip meets UL 1363 and cUL standards, and it comes with a limited lifetime warranty",
+                    "sku": "IM1114215",
+                    "updatedAt": "2023-06-24 20:25:37"
+                },
+                "createdAt": "1688149416911",
+                "updatedAt": "1688149416911",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "45",
+                "title": "Govee Bluetooth 12 Watts Multicolor LED A19 E26 Bulb, 4/Pack (B6009AC3)",
+                "url": "https://www.staples.com/product_24561660?cid=AFF:24561660",
+                "price": 5999,
+                "description": "This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/sp204069179_sc7?wid=512&hei=512",
+                    "description": "Make your home feel a lot brighter with these smart color-changing bulbs. Adjust between RGB colors as well as warm and cool whites for ideal lighting every time. Makes your home brighter than other conventional bulbs with 1200 lumens. Adjustable bulb colors including RGB colors plus warm and cool whites. Multiple app modes features music mode and wake-up mode. Have full control of your lights using Wi-Fi and Bluetooth compatibility. Save time and adjust multiple bulbs at once using group control. Indoor. 12-month limited warranty. Lumens: 1200lm; Light Bulb Color Temperature: 2700K-6500K; Brightness: 90 CRI; Wattage: 12W;Equivalent Wattage: 80W. A19, E26, RGBWW. 2. 4Ghz WI-FI and Bluetooth/Voice+App Control. LED WiFi Light Bulbs. Alexa or Google Assistant. E26",
+                    "sku": "24561660",
+                    "updatedAt": "2023-06-16 20:01:46"
+                },
+                "createdAt": "1688149416914",
+                "updatedAt": "1688149416914",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "46",
+                "title": "CyberPower Intelligent LCD UPS CP1350AVRLCD3 1350VA Mini-tower UPS - Mini-tower - AVR - 8 Hour Recharge - 4 Minute Stand-by - 120 V AC Input - 120 V A",
+                "url": "https://www.officedepot.com/a/products/2826174/CyberPower-Intelligent-LCD-UPS-CP1350AVRLCD3-1350VA/",
+                "price": 19495,
+                "description": "Let me tell you, this is the best deal on this site! This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/2826174/2826174_o51_et_10448745.jpg",
+                    "description": "Plug type & cord: NEMA 5-15P, 6ft. cord  USB Charge Ports: 2 (1 USB-A 2.4A, 1 USB-C 15W)  Runtime (half/full): 14 minutes / 4 minutes  Topology: Line Interactive  Communication: USB, Serial  Waveform: Simulated Sine Wave  Data line protection: Ethernet, Coaxial  Output: 120 VAC � 5%  Outlets: 12 (6 surge, 6 surge + battery backup)  C1350 VA / 815 W  Energy efficient - designed to use less energy than alternative products, potentially helping you save money and reduce your carbon footprint.  Helps save energy - designed to limit the energy used by other products, potentially helping you reduce your carbon footprint and save money.",
+                    "sku": "2826174",
+                    "updatedAt": "2023-06-22 20:14:54"
+                },
+                "createdAt": "1688149416916",
+                "updatedAt": "1688149416916",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "47",
+                "title": "Dell Latitude 7430 Business Laptop or 2-in-1 - w/ Windows 11 Pro OS & 12th gen Intel Core - 14\" FHD Touch Screen - 16GB - 512G",
+                "url": "https://www.dell.com/en-us/shop/dell-laptops/latitude-7430-laptop/spd/latitude-14-7430-2-in-1-laptop/s122l7430usvp",
+                "price": 158900,
+                "description": "You can't go wrong with this one!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://i.dell.com/is/image/DellContent/content/dam/images/products/laptops-and-2-in-1s/latitude/14-7430-2n1/la7430t-ctb-00055lf110-bk.psd?$S7-300x300$&layer=1&src=is{DellContent/content/dam/images/screenfills/latitude/latitude-j7e9046a-16x9.psd?size=4000%2C4000}&perspective=2103%2C1342%2C3593%2C1072%2C3223%2C2521%2C1780%2C2385&pos=-268%2C-979",
+                    "description": "Shop the Dell Latitude 7430 Premium Commercial Laptop featuring 14 inch screen, built-in security & Configurable as a laptop or 2-in-1, or view all Latitude laptops at Dell.com.",
+                    "sku": "s122l7430usvp",
+                    "updatedAt": "2023-06-23 20:00:02"
+                },
+                "createdAt": "1688149416918",
+                "updatedAt": "1688149416918",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "48",
+                "title": "Microsoft Surface Laptop 5 15\" Touchscreen Notebook - Intel Core i7 - 32 GB Total RAM - 1 TB SSD- Windows 11 Pro",
+                "url": "https://www.officedepot.com/a/products/1275304/Microsoft-Surface-Laptop-5-15-Touchscreen/",
+                "price": 238099,
+                "description": "You can't go wrong with this one!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/1275304/1275304_o51_et_10426335.jpg",
+                    "description": "The 15\" 2496 x 1664 screen provides a great movie watching experience  1 TB total SSD capacity provides more productive performance and superior data storage for a variety of files including HD quality videos, movies, photos, music, and more  17 Hours battery run time helps you stay unwired and work longer non-stop  With 32 GB LPDDR5X of memory, users can run many programs without losing execution",
+                    "sku": "1275304",
+                    "updatedAt": "2023-06-16 20:13:49"
+                },
+                "createdAt": "1688149416920",
+                "updatedAt": "1688149416920",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "49",
+                "title": "Microsoft Surface Laptop 4 15\" Touchscreen Notebook - AMD Ryzen 7 4980U Octa-core (8 Core) - 8 GB Total RAM - 256 GB SSD - Platinum - AMD Chip - Windo",
+                "url": "https://www.officedepot.com/a/products/6861119/Microsoft-Surface-Laptop-4-15-Touchscreen/",
+                "price": 142999,
+                "description": "This is a great product! You can't go wrong with this one! This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "https://media.officedepot.com/images/t_extralarge%2Cf_auto/products/6861119/6861119_o51_et_10424986.jpg",
+                    "description": "The 15\" 2496 x 1664 screen provides a great movie watching experience  Working in different apps while keeping an eye on social media has never been easier; you can now snap up to four apps to any location on the screen for effortless multitasking. You can even create individual desktops for specific projects and tasks.  256 GB SSD keeps your running programs active while your computer resumes from suspension in seconds  With 8 GB LPDDR4X memory, you can switch seamlessly between various applications without issue",
+                    "sku": "6861119",
+                    "updatedAt": "2023-06-16 20:51:09"
+                },
+                "createdAt": "1688149416923",
+                "updatedAt": "1688149416923",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            },
+            {
+                "id": "50",
+                "title": "Microsoft Surface 12.4\" Laptop, Intel Core i5, 8GB Memory, 128GB SSD, Windows 11 Pro (8QD-00023)",
+                "url": "https://www.staples.com/microsoft-surface-12-4-laptop-intel-core-i5-8gb-memory-128gb-ssd-windows-11-pro-8qd-00023/product_IM104RK08?cid=AFF:IM104RK08",
+                "price": 80599,
+                "description": "This is a must have!",
+                "product": {
+                    "availability": "IN STOCK",
+                    "image": "http://www.staples-3p.com/s7/is/image/Staples/D1411FB3-C661-471D-AFAD7C11A43F2975_sc7?wid=512&hei=512",
+                    "description": "Tackle projects with business-grade performance, type comfortably thanks to a full-size keyboard, and be productive on the go with long battery life. For every project plan, video call, and presentation, Surface Laptop Go 2 for Business brings portability and quality you can see and touch. Studio mics and an HD camera help you show up looking and sounding your best. 128GB SSD keeps your running programs active while your computer resumes from suspension in seconds. 1-year manufacturer limited warranty. Windows 11 Pro operating system provides an intuitive and user-friendly interface. 8GB memory smoothly runs your games, photo, and video editing applications. Intel Core i5-1135G7 quad-core processor with up to 4. 2GHz speed and 8MB cache memory. 41Wh battery with a run time of up to 13. 5 hours. 12. 4\" screen is large enough to watch movies and TV shows and small enough to carry easily. 802. 11a/b/g/n/ac/ax and Bluetooth 5. 1 wireless connectivity for easy Internet access. LPDDR4X SDRAM memory technology for high-performance solution",
+                    "sku": "IM104RK08",
+                    "updatedAt": "2023-06-18 20:21:34"
+                },
+                "createdAt": "1688149416926",
+                "updatedAt": "1688149416926",
+                "likes": [],
+                "dislikes": [],
+                "comments": []
+            }
+        ]
+    }
+}
